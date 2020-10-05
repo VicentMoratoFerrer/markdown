@@ -46,21 +46,4 @@
    ####   [Assassin's Creed Valhalla](https://es.wikipedia.org/wiki/Assassin%27s_Creed#Assassin's_Creed:_Valhalla)
    ![Assassin's Creed Valhalla](https://s1.gaming-cdn.com/images/products/6912/271x377/assassin%e2%80%99s-creed-valhalla-ultimate-edition-cover.jpg)
    
-   
-   ### Resumen breve de las historias 
-   
-   La historia transcurre sobre el año 2012 y cunta como protagonista principal a Desmond Miles, que es el ultimo descendente de l amilenaria hermandad de los asesinos. Miles es secuestrado por la empresa Abstergo Industries que es la encarnación moderna de la orden de los templarios. 
-   
-   
-  ####   [Assassin's Creed]()
-  ####   [Assassin's Creed II]()
-  ####   [Assassin's Creed Brotherood]()
-  ####   [Assassin's Creed Revelations()
-  ####   [Assassin's Creed III]()
-  ####   [Assassin's Creed IV]()
-  ####   [Assassin's Creed Roge]()
-  ####   [Assassin's Creed Unity]()
-  ####   [Assassin's Creed Syndicate]()
-  ####   [Assassin's Creed Origins]()
-  ####   [Assassin's Creed Odyssey]()
-  ####   [Assassin's Creed Valhalla]()
+  
